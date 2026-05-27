@@ -52,6 +52,8 @@
 - Blender 3.4 or higher
 - The plugin requires two .blend resource files (`shader file/my shader.blend` and `fix_node/fix_node.blend`). Make sure the directory structure remains intact after unzipping.
 
+### The English text is automatically translated from Chinese. Some expressions may not be entirely accurate.
+
 ### License
 
 This project is licensed under the **GPL-3.0 License**.
