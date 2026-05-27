@@ -13,7 +13,8 @@
 **Stylized Shading Tools** is a Blender addon designed for NPR (Non-Photorealistic Rendering) workflows. It provides one-click node group creation, node repair tools, and practical utilities to speed up your stylized shading process.
 
 >
-> `图片占位符`
+> ![Uploading 大溪沟.jpg…]()
+
 > 
 > `图片占位符`
 
