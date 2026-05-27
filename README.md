@@ -29,7 +29,7 @@
 
 - **Utility Tools**:
   - Empty object organizer (move child/parent empties to collections)
-  - <img width="960" height="540" alt="npr2" src="https://github.com/user-attachments/assets/601ddc46-a509-496e-8f2b-3b3169009f02" />
+<img width="960" height="540" alt="npr2" src="https://github.com/user-attachments/assets/601ddc46-a509-496e-8f2b-3b3169009f02" />
   
   - Batch rename (material ↔ object, collection objects with serial numbers)
 <img width="960" height="540" alt="npr3" src="https://github.com/user-attachments/assets/fa8fdcb1-3077-448d-bcf2-218b30f3241e" />
@@ -68,7 +68,7 @@ This project is licensed under the **GPL-3.0 License**.
 ### 主要功能
 
 - **一键添加材质**：快速添加"多功能风格化shader"、"色彩渐变节点"或全套散装节点组（主节点、轮廓光、高光、反射、脏迹、AO、Z轴变化等）。
-- <img width="1512" height="996" alt="image" src="https://github.com/user-attachments/assets/c05a673e-ca0a-4b34-be43-5bdc267ab87c" />
+<img width="1512" height="996" alt="image" src="https://github.com/user-attachments/assets/c05a673e-ca0a-4b34-be43-5bdc267ab87c" />
 "色彩渐变节点"：
 <img width="960" height="540" alt="npr" src="https://github.com/user-attachments/assets/ed4d08b2-e41d-4d16-87bd-0cd09179dc89" />
 
@@ -79,12 +79,12 @@ This project is licensed under the **GPL-3.0 License**.
 
 - **实用工具集**：
   - 空物体整理（子级/父级空物体移动到集合）
-  - <img width="960" height="540" alt="npr2" src="https://github.com/user-attachments/assets/601ddc46-a509-496e-8f2b-3b3169009f02" />
+ <img width="960" height="540" alt="npr2" src="https://github.com/user-attachments/assets/601ddc46-a509-496e-8f2b-3b3169009f02" />
 
   - 批量重命名（材质 ↔ 物体、集合内对象按序号重命名）
-<img width="960" height="540" alt="npr3" src="https://github.com/user-attachments/assets/fa8fdcb1-3077-448d-bcf2-218b30f3241e" />
+ <img width="960" height="540" alt="npr3" src="https://github.com/user-attachments/assets/fa8fdcb1-3077-448d-bcf2-218b30f3241e" />
   
-<img width="960" height="540" alt="npr5" src="https://github.com/user-attachments/assets/f0951841-2e02-4070-98ae-fbd007c437d5" />
+ <img width="960" height="540" alt="npr5" src="https://github.com/user-attachments/assets/f0951841-2e02-4070-98ae-fbd007c437d5" />
 
 ### 安装方法
 
