@@ -25,6 +25,12 @@ BULK_GROUPS = [
     "AO",
     "Z轴变化",
 ]
+GRADIENT_NODES = [
+    "渐变",        # 显示名, 实际节点组名
+    "纹理坐标"
+    "混合颜色"
+    "映射范围"
+]
 
 GRADIENT_GROUP_NAME = "渐变"
 TEXCOORD_NODE_NAME = "Texture Coordinate.002"
@@ -441,9 +447,14 @@ class NODE_MT_gradient_node(Menu):
 
     def draw(self, context):
         layout = self.layout
-        op = layout.operator("node.style_add_custom_group", text=GRADIENT_GROUP_NAME)
-        op.group_name = GRADIENT_GROUP_NAME
-
+        op1 = layout.operator("node.style_add_custom_group", text=GRADIENT_GROUP_NAME)
+        op1.group_name = GRADIENT_GROUP_NAME
+        op2 = layout.operator("node.style_add_custom_group", text="纹理坐标")
+        op2.group_name = "纹理坐标"
+        op3 = layout.operator("node.style_add_custom_group", text="混合颜色")
+        op3.group_name = "混合颜色"
+        op4 = layout.operator("node.style_add_custom_group", text="映射范围")
+        op4.group_name = "映射范围"
 
 class NODE_MT_custom_nodes(Menu):
     bl_label = "风格化节点"
